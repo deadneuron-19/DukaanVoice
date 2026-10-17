@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "customer-b0550725-65fd-4092-afd8-0cb3ecfcbf7b",
+    "current_state": "CONFIRMED",
+    "draft_order_id": "ORD-2d25f7efb3e147d6a7004863460e9c0b",
+    "pending_clarification": null,
+    "conversation_history": [],
+    "workflow_context": null
+  }
+]

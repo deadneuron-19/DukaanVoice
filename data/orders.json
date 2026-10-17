@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": "ORD-2d25f7efb3e147d6a7004863460e9c0b",
+    "session_id": "customer-b0550725-65fd-4092-afd8-0cb3ecfcbf7b",
+    "items": [
+      {
+        "product_id": "sugar-1kg",
+        "quantity": 1,
+        "unit_price": "52.00",
+        "line_total": "52.00"
+      }
+    ],
+    "subtotal": "52.00",
+    "discount": "0",
+    "total": "52.00",
+    "status": "confirmed",
+    "created_at": null,
+    "updated_at": null,
+    "confirmed_at": null,
+    "idempotency_key": "77516051-f71b-44d0-997c-9c2262666718",
+    "confirmation_idempotency_key": "35a303ba-7ffe-48bb-9a78-6ea033e822c1"
+  }
+]
